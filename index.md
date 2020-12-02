@@ -48,7 +48,7 @@ If your company wishes to support the chapter, please contact [Igor Beliaiev](ma
 
 ## Become a Speaker
 
-Call For Speakers at OWASP Kyiv events is permanently open. If you want
+Call For Speakers at OWASP Lviv events is permanently open. If you want
 to present at future events, review and agree with the [OWASP Speaker
 Agreement](Speaker_Agreement "wikilink") and check for upcoming events
 at <https://cfp.owaspukraine.org>, or simply send the title and abstract
@@ -56,7 +56,7 @@ of your talk and speaker bio to [Igor Beliaiev](mailto:igor.beliaiev@owasp.org) 
 
 ## Become a Sponsor
 
-To sponsor an OWASP Kyiv event, contact [Igor Beliaiev](mailto:igor.beliaiev@owasp.org) or [Stanislav Breslavskiy](mailto:stanislav.breslavskiy@owasp.org).
+To sponsor an OWASP Lviv event, contact [Igor Beliaiev](mailto:igor.beliaiev@owasp.org) or [Stanislav Breslavskiy](mailto:stanislav.breslavskiy@owasp.org).
 
 We don't have any special sponsorship package, however the sponsoring
 organization or individual will receive our warm thanks and a fair
@@ -65,7 +65,7 @@ chapter official web-page, and announced at the event itself.
 
 ## Become a Host
 
-To host an OWASP Kyiv event, contact [Igor Beliaiev](mailto:igor.beliaiev@owasp.org).
+To host an OWASP Lviv event, contact [Igor Beliaiev](mailto:igor.beliaiev@owasp.org).
 
 Venue requirements include:
 

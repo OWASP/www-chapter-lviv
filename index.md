@@ -38,7 +38,8 @@ Watch recordings of our previous events
 [YouTube](https://www.youtube.com/channel/UC5CA1njAVqmFv8wmQpQ2jzw)
 
 Join our [Meetup Page](https://www.meetup.com/owasp-lviv-meetup-group/)
-
+ {% include chapter_events.html group=page.meetup-group %}
+ 
 ## How to support the chapter
 
 If your company wishes to support the chapter, please contact [Igor Beliaiev](mailto:igor.beliaiev@owasp.org).

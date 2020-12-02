@@ -11,26 +11,25 @@ region: Europe
 
 ## Who are we
 
-![OWASP Kyiv](assets/images/owasp_kyiv_logo_big.png "OWASP Kyiv")
+![OWASP Lviv](assets/owasplviv.jpg "OWASP Lviv")
 
+Welcome to the OWASP Lviv chapter homepage.
+
+The chapter leaders are Igor Beliaiev(mailto:igor.beliaiev@owasp.org), Bohdan Serednytskyi(mailto:bohdan.serednytskyi@owasp.org) and Stanislav Breslavskiy(mailto:stanislav.breslavskiy@owasp.org). The chapter is run by a team of dedicated cyber security enthusiasts:
 OWASP Kyiv chapter was founded in 2017 by [Vlad
 Styran](mailto:vlad.styran@owasp.org) and [Ihor
 Bliumental](mailto:ihor.bliumental@owasp.org). The chapter is run by a
-team of dedicated cybersecurity enthusiasts: [Kyrylo
-Hobrenyak](https://www.facebook.com/kireynh), [Dmytro
-Diordiychuk](https://www.facebook.com/dimitri.diordiychuk), and [Serhii
-Korolenko](https://www.facebook.com/profile.php?id=100000202486987).
+team of dedicated cybersecurity enthusiasts: [Pavlo Zhavoronkov](https://www.facebook.com/1)and [Oksana Safronova](https://www.facebook.com/2).
 
 The chapter aims at holding quarterly meetups in the format of 2
 practical workshops and up to 5 talks. The meetups are normally streamed
-online and recorded, and are followed by unofficial parties in Kyiv
-pubs.
+online and recorded, and are followed by unofficial parties in Lviv
+pubs. Everyone are welcome to join us at our chapter meetings.
 
 ## How to find us
 
 Follow our news and announcements on social media:
-[Facebook](https://www.facebook.com/owaspkyiv),
-[Twitter](https://twitter.com/owaspKyiv) &
+[Facebook](https://www.facebook.com/owasplviv) &
 [Telegram](https://t.me/OWASP_UA)
 
 Find us on the semi-official OWASP
@@ -40,17 +39,15 @@ to
 first)
 
 Watch recordings of our previous events
-[YouTube](https://www.youtube.com/OWASPKyiv)
+[YouTube](https://www.youtube.com/channel/UC5CA1njAVqmFv8wmQpQ2jzw)
 
 Join the chapter [Mailing
-List](http://lists.owasp.org/mailman/listinfo/owasp-kyiv) or browse the
-[Archives](http://lists.owasp.org/pipermail/owasp-kyiv)
+List](http://lists.owasp.org/mailman/listinfo/owasp-lviv) or browse the
+[Archives](http://lists.owasp.org/pipermail/owasp-lviv)
 
 ## How to support the chapter
 
-If your company wishes to support the chapter, please contact [Vlad
-Styran](mailto:vlad.styran@owasp.org) or [Ihor
-Bliumental](mailto:ihor.bliumental@owasp.org).
+If your company wishes to support the chapter, please contact [Igor Beliaiev](mailto:igor.beliaiev@owasp.org).
 
 # Future Events
 
@@ -60,15 +57,11 @@ Call For Speakers at OWASP Kyiv events is permanently open. If you want
 to present at future events, review and agree with the [OWASP Speaker
 Agreement](Speaker_Agreement "wikilink") and check for upcoming events
 at <https://cfp.owaspukraine.org>, or simply send the title and abstract
-of your talk and speaker bio to [Vlad
-Styran](mailto:vlad.styran@owasp.org) or [Ihor
-Bliumental](mailto:ihor.bliumental@owasp.org).
+of your talk and speaker bio to [Igor Beliaiev](mailto:igor.beliaiev@owasp.org) or [Bohdan Serednytskyi](mailto:bohdan.serednytskyi@owasp.org).
 
 ## Become a Sponsor
 
-To sponsor an OWASP Kyiv event, contact [Vlad
-Styran](mailto:vlad.styran@owasp.org) or [Ihor
-Bliumental](mailto:ihor.bliumental@owasp.org).
+To sponsor an OWASP Kyiv event, contact [Igor Beliaiev](mailto:igor.beliaiev@owasp.org) or [Stanislav Breslavskiy](mailto:stanislav.breslavskiy@owasp.org).
 
 We don't have any special sponsorship package, however the sponsoring
 organization or individual will receive our warm thanks and a fair
@@ -77,9 +70,7 @@ chapter official web-page, and announced at the event itself.
 
 ## Become a Host
 
-To host an OWASP Kyiv event, contact [Vlad
-Styran](mailto:vlad.styran@owasp.org) or [Ihor
-Bliumental](mailto:ihor.bliumental@owasp.org).
+To host an OWASP Kyiv event, contact [Igor Beliaiev](mailto:igor.beliaiev@owasp.org).
 
 Venue requirements include:
 

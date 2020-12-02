@@ -37,6 +37,8 @@ first)
 Watch recordings of our previous events
 [YouTube](https://www.youtube.com/channel/UC5CA1njAVqmFv8wmQpQ2jzw)
 
+Join our [Meetup Page](https://www.meetup.com/owasp-lviv-meetup-group/)
+
 Join the chapter [Mailing
 List](http://lists.owasp.org/mailman/listinfo/owasp-lviv) or browse the
 [Archives](http://lists.owasp.org/pipermail/owasp-lviv)

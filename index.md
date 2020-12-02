@@ -11,7 +11,7 @@ region: Europe
 
 ## Who are we
 
-![OWASP Lviv](assets/owasplviv.jpg "OWASP Lviv")
+![OWASP Lviv](assets/images/owasplviv.jpg "OWASP Lviv")
 
 Welcome to the OWASP Lviv chapter homepage.
 

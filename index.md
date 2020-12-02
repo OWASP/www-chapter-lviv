@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Lviv
-tags: example-tag
+tags: supporters-tag past2020-tag past2019-tag past2018-tag past2017-tag
 level: 0
 
 region: Europe
@@ -15,7 +15,7 @@ region: Europe
 
 Welcome to the OWASP Lviv chapter homepage.
 
-The chapter leaders are Igor Beliaiev(mailto:igor.beliaiev@owasp.org), Bohdan Serednytskyi(mailto:bohdan.serednytskyi@owasp.org) and Stanislav Breslavskiy(mailto:stanislav.breslavskiy@owasp.org). The chapter is run by a team of dedicated cyber security enthusiasts:
+The chapter leaders are [Igor Beliaiev](mailto:igor.beliaiev@owasp.org), [Bohdan Serednytskyi](mailto:bohdan.serednytskyi@owasp.org) and [Stanislav Breslavskiy](mailto:stanislav.breslavskiy@owasp.org). The chapter is run by a team of dedicated cyber security enthusiasts:
 OWASP Kyiv chapter was founded in 2017 by [Vlad
 Styran](mailto:vlad.styran@owasp.org) and [Ihor
 Bliumental](mailto:ihor.bliumental@owasp.org). The chapter is run by a

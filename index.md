@@ -39,10 +39,6 @@ Watch recordings of our previous events
 
 Join our [Meetup Page](https://www.meetup.com/owasp-lviv-meetup-group/)
 
-Join the chapter [Mailing
-List](http://lists.owasp.org/mailman/listinfo/owasp-lviv) or browse the
-[Archives](http://lists.owasp.org/pipermail/owasp-lviv)
-
 ## How to support the chapter
 
 If your company wishes to support the chapter, please contact [Igor Beliaiev](mailto:igor.beliaiev@owasp.org).

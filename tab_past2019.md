@@ -64,7 +64,9 @@ Stream 2:
 9. Andrii Kudyurov - Doing OWASP ASVS audit for released products: pros, cons and a slight pain
 10. Nadia Klymenko - Approaches to keep your privacy
 11. CTF and Hacker party
-Video recordings: https://www.youtube.com/channel/UC5CA1njAVqmFv8wmQpQ2jzw/videos
+
+[Video recordings](https://www.youtube.com/channel/UC5CA1njAVqmFv8wmQpQ2jzw/videos)
+
 
 ## #4 OWASP Lviv Winter Meetup 2019
 

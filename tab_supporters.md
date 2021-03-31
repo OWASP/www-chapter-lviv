@@ -32,8 +32,6 @@ meetings.
 
 ![Techmagic](assets/images/partners/tech-magic.png "Techmagic")
 
-![SoftServe](assets/images/partners/softserve.png
- "SoftServe")
+![SoftServe](assets/images/partners/softserve.jpg "SoftServe")
  
- ![Eleks](assets/images/partners/eleks.png
- "Eleks")
+ ![Eleks](assets/images/partners/eleks.png "Eleks")

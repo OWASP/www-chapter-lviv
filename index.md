@@ -8,6 +8,10 @@ level: 0
 region: Europe
 
 ---
+## Future Events
+
+{% include chapter_events.html group=page.meetup-group %}
+
 
 ## Who are we
 

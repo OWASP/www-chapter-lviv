@@ -1,11 +1,11 @@
 ---
-
+country: Ukraine
+region: Europe
+meetup-group: lviv-meetup-group
 layout: col-sidebar
 title: OWASP Lviv
-tags: supporters-tag past2020-tag past2019-tag past2018-tag past2017-tag
+tags: supporters-tag past2021-tag past2020-tag past2019-tag past2018-tag past2017-tag
 level: 0
-
-region: Europe
 
 ---
 ## Future Events
@@ -47,8 +47,6 @@ Join our [Meetup Page](https://www.meetup.com/owasp-lviv-meetup-group/)
 ## How to support the chapter
 
 If your company wishes to support the chapter, please contact [Igor Beliaiev](mailto:igor.beliaiev@owasp.org).
-
-# Future Events
 
 ## Become a Speaker
 

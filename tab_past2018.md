@@ -17,7 +17,7 @@ tags: past2018-tag
 3. Oksana Safronova - Windows persistence - something old, something new, something weird. How to exploit some of the techniques and stay on the system for long enough.
 4. Pavlo Zhavoronkov - Extending that monster: Cuckoo functionality for Mac-based Malware analysis.
 
-Event details: https://www.eventbrite.com/e/owasp-lviv-summer-meetup-tickets-48273016893
+[Event details](https://www.eventbrite.com/e/owasp-lviv-summer-meetup-tickets-48273016893)
 
 ## #2 OWASP Lviv Autumn Meetup 2018
 
@@ -28,7 +28,7 @@ Event details: https://www.eventbrite.com/e/owasp-lviv-summer-meetup-tickets-482
 2. Igor Khoroshchenko - Data Leakages Epic Fuckups
 3. Vasyl Verbovyi - Sometimes, shit comes. A couple of words about routers firmware
 
-Event details: https://www.eventbrite.com/e/owasp-lviv-autumn-meetup-tickets-50637578360?ref=estw
+[Event details](https://www.eventbrite.com/e/owasp-lviv-autumn-meetup-tickets-50637578360)
 
 ## #3
 ![OWASP UKRAINE 2018](assets/images/owaspua_2018.png "OWASP Ukraine 2018")

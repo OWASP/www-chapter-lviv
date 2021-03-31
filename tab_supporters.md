@@ -15,7 +15,7 @@ These companies have demonstrated their support for Ukrainian
 Application Security community by funding our quarterly chapter
 meetings.
 
-![EPAM](assets/images/partners/epam.png "EPAM"){:height="50%" width="50%"}
+![EPAM](assets/images/partners/epam.png "EPAM")
 
 ![Berezha Security](assets/images/partners/berezha.png "Berezha Security")
 
@@ -34,4 +34,4 @@ meetings.
 
 ![SoftServe](assets/images/partners/softserve.jpg "SoftServe")
  
- ![Eleks](assets/images/partners/eleks.png "Eleks"){:height="50%" width="50%"}
+ ![Eleks](assets/images/partners/eleks.png "Eleks"){:height="200px" width="500px"}

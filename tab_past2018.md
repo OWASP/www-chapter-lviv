@@ -31,7 +31,7 @@ Event details: https://www.eventbrite.com/e/owasp-lviv-summer-meetup-tickets-482
 Event details: https://www.eventbrite.com/e/owasp-lviv-autumn-meetup-tickets-50637578360?ref=estw
 
 ## #3
-![OWASP UKRAINE 2019](assets/images/owaspua_2019.jpg "OWASP Ukraine 2019")
+![OWASP UKRAINE 2018](assets/images/owaspua_2018.png "OWASP Ukraine 2018")
 
 **Date** November 23-24, 2018
 

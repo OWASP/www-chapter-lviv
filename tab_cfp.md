@@ -3,7 +3,7 @@ title: cfp
 displaytext: Call for papers
 layout:  null
 tab: true
-order: 2
+order: 5
 tags: tab_cfp
 ---
 

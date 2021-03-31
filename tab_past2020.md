@@ -7,13 +7,12 @@ order: 3
 tags: past2020-tag
 ---
 
-### #1
-Chapter Webinars 2020
+### #1 Chapter Webinars 2020
 
 ![Debate on Pentest & AppSec – Blue Team vs. Red Team Perspective“ by Yevgen Balyutov, Andrii Garaschuk, Igor Beliaiev, Vlad Styran](assets/images/debate.jpg "OWASP Ukraine 2020")
 Video: https://www.youtube.com/watch?v=_AI2fd6C9j4
 
-### #2
+### #2 OWASP Ukraine 2020
 ![OWASP UKRAINE online meetup 2020](assets/images/FINAL_OWASP_COLOUR.jpg "OWASP Ukraine 2020")
 
 **Date** Deember 5th, 2020 

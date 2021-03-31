@@ -4,7 +4,7 @@ region: Europe
 meetup-group: owasp-lviv-meetup-group
 layout: col-sidebar
 title: OWASP Lviv
-tags: supporters-tag cfp-tag past2021-tag past2020-tag past2019-tag past2018-tag past2017-tag
+tags: supporters-tag cfp-tag past2020-tag past2019-tag past2018-tag
 level: 0
 
 ---

@@ -7,7 +7,8 @@ order: 3
 tags: past2020-tag
 ---
 
-### OWASP Ukraine Online Meetup 2020
+### #1 
+![OWASP UKRAINE online meetup 2020](assets/images/FINAL_OWASP_COLOUR.jpg "OWASP Ukraine 2020")
 
 **Date** Deember 5th, 2020 
 
@@ -32,6 +33,7 @@ schedule](https://cfp.owaspukraine.org/owaspukraine2020/schedule/)
 7.  “6 digit OTP for 2FA is brute-forceable in 3 days + OTP Lottery” by Maksym Khramov & Serhii Korolenko |
     [Video](https://www.youtube.com/watch?v=7YlqYWEweqk&list=PLBvwykOxvhNa3J67VHtmJsxT_c2LPyUNz&index=7)
 
-### Chapter Webinars 2020
+### #2 
+Chapter Webinars 2020
 
 “Debate on Pentest & AppSec – Blue Team vs. Red Team Perspective“ by Yevgen Balyutov, Andrii Garaschuk, Igor Beliaiev, Vlad Styran [Video](https://www.youtube.com/watch?v=_AI2fd6C9j4&list=PLDLqQj8RuUFujgQA6WpkYMc_oDstMhsZZ&index=8&t=0s)

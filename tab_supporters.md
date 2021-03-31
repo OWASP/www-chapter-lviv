@@ -34,4 +34,4 @@ meetings.
 
 ![Eleks](assets/images/partners/eleks.png "Eleks"){:height="200px" width="500px"}
 
-![SoftServe](assets/images/partners/softserve.jpg "SoftServe"){:height="200px"}
+![SoftServe](assets/images/partners/softserve.jpg "SoftServe"){:height="300px"}

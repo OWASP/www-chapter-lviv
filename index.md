@@ -19,7 +19,7 @@ level: 0
 
 Welcome to the OWASP Lviv chapter homepage.
 
-The chapter leaders are [Igor Beliaiev](mailto:igor.beliaiev@owasp.org), [Bohdan Serednytskyi](mailto:bohdan.serednytskyi@owasp.org) and [Stanislav Breslavskiy](mailto:stanislav.breslavskiy@owasp.org). The chapter is run by a team of dedicated cybersecurity enthusiasts: [Pavlo Zhavoronkov](https://www.facebook.com/melnuck.p) and [Oksana Safronova](https://www.facebook.com/oksana.safronova.7121).
+The chapter leaders are [Igor Beliaiev](mailto:igor.beliaiev@owasp.org), [Bohdan Serednytskyi](mailto:bohdan.serednytskyi@owasp.org) and [Stanislav Breslavskiy](mailto:stanislav.breslavskiy@owasp.org). The chapter is run by a team of dedicated cybersecurity enthusiasts: [Pavlo Zhavoronkov](https://www.facebook.com/melnuck.p), [Oksana Safronova](https://www.facebook.com/oksana.safronova.7121) and [Danial Zhuravchak](https://www.facebook.com/profile.php?id=100004747188325).
 
 The chapter aims at holding quarterly meetups in the format of 2
 practical workshops and up to 5 talks. The meetups are normally streamed

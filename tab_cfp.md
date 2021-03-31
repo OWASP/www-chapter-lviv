@@ -4,7 +4,7 @@ displaytext: Call for papers
 layout:  null
 tab: true
 order: 2
-tags: cfp-tag
+tags: tab_cfp
 ---
 
 ### Call For Papers 2021

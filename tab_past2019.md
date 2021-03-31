@@ -16,7 +16,7 @@ tags: past2019-tag
 2. Ben Whaley - The best and worst AWS security practices
 3. Vasyl Verbovyi - Sometimes, shit comes. A couple of words about routers firmware)
 
-Event details: https://www.eventbrite.com/e/owasp-lviv-winter-meetup-tickets-56666996512?ref=estw#
+[Event details](https://www.eventbrite.com/e/owasp-lviv-winter-meetup-tickets-56666996512)
 
 ## #2 OWASP Lviv Winter Meetup 2019
 
@@ -27,7 +27,7 @@ Event details: https://www.eventbrite.com/e/owasp-lviv-winter-meetup-tickets-566
 2. Pavlo Zhavoronkov - Darknet security best practices
 3. Danial Zhuravchak - SRE: Monitoring
 
-Event details: https://www.eventbrite.com/e/owasp-lviv-summer-meetup-2019-tickets-70361002653?ref=estw
+[Event details](https://www.eventbrite.com/e/owasp-lviv-summer-meetup-2019-tickets-70361002653)
 
 ## #3
 ![OWASP UKRAINE 2019](assets/images/owaspua_2019.jpg "OWASP Ukraine 2019")
@@ -75,4 +75,4 @@ Video recordings: https://www.youtube.com/channel/UC5CA1njAVqmFv8wmQpQ2jzw/video
 2. Auditing Docker containers
 3. Infrastructure code security testingg
 
-Event details: https://www.eventbrite.com/e/devsecops-meetup-tickets-86522181173#
+[Event details](https://www.eventbrite.com/e/devsecops-meetup-tickets-86522181173)

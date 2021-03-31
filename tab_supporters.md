@@ -15,7 +15,7 @@ These companies have demonstrated their support for Ukrainian
 Application Security community by funding our quarterly chapter
 meetings.
 
-![EPAM](assets/images/partners/epam.png "EPAM")
+![EPAM](assets/images/partners/epam.png "EPAM"){:height="200px" width="500px"}
 
 ![Berezha Security](assets/images/partners/berezha.png "Berezha Security")
 
@@ -26,7 +26,7 @@ These companies have demonstrated their support for Ukrainian
 Application Security community by hosting our quarterly chapter
 meetings.
 
-![EPAM](assets/images/partners/epam.png "EPAM")
+![EPAM](assets/images/partners/epam.png "EPAM"){:height="200px" width="500px"}
 
 ![Ciklum](assets/images/partners/ciklum.png "Ciklum")
 

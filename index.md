@@ -13,7 +13,7 @@ region: Europe
 {% include chapter_events.html group=page.meetup-group %}
 
 
-## Who are we
+## Who are we1
 
 ![OWASP Lviv](assets/images/owasplviv.jpg "OWASP Lviv")
 

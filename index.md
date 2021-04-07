@@ -4,7 +4,7 @@ title: OWASP Lviv
 country: Ukraine
 region: Europe
 meetup-group: owasp-lviv-meetup-group
-tags: supporters-tag tab_cfp past2020-tag past2019-tag past2018-tag
+tags: supporters-tag tab_cfp past2021-tag past2020-tag past2019-tag past2018-tag
 level: 0
 
 ---

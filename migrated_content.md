@@ -33,13 +33,15 @@ OWASP Ukraine conference, held under the aegis of all active OWASP
 Ukraine chapters. The meetups are normally streamed on-line and
 recorded.
 
-**OWASP Lviv Autumn meetup** - Oct 01 2018
 
-**[OWASP Ukraine 2018](https://owaspukraine.org/)** - Nov 23-24 2018
-
-**OWASP Lviv Winter meetup** - Feb 19 2019
+**[OWASP Ukraine 2018](https://2018.owaspukraine.org/)** - Nov 23-24 2018
 
 **[OWASP Ukraine 2019](https://owaspukraine.org/)** - Oct 04-25 2019
+
+**[OWASP Ukraine 2020 online](https://www.facebook.com/events/d41d8cd9/owasp-ukraine-2020-online-meetup/1825635794242026/)** - Dec05 2020
+**OWASP Lviv Winter meetup** - Feb 19 2019
+
+**OWASP Lviv meetups** - 4 times per year, usually on per quater basis
 
 ## Call for Papers
 

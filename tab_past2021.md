@@ -19,6 +19,7 @@ tags: past2021-tag
 [Event details](https://www.meetup.com/owasp-lviv-meetup-group/events/277285117/)
 
 
+
 ## #2 OWASP Lviv Summer Meetup 2021 (online)
 
 ![OWASP Lviv](assets/images/owasplviv.jpg "OWASP Lviv")
@@ -31,6 +32,7 @@ tags: past2021-tag
 3. Digital transformation impact on Security by Igor Beliaiev
 
 [Event details](https://www.t.me/owaspua/) 
+
 
 
 ## #3 OWASP Lviv Autumn Meetup 2021
@@ -46,6 +48,8 @@ tags: past2021-tag
 2nd session and retrospective after NoNameCon 2021 edition
 
 [Event details](https://discord.gg/cwtpjyf)
+
+
 
 ## #4 OWASP Ukraine 2021
 Currently postponed due to covid-19 restrictions

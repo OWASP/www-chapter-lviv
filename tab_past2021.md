@@ -29,6 +29,7 @@ tags: past2021-tag
 1. Windows Privelege Escalationa by Anatolii Khomenchuk
 2. Security Testing Basics: OWASP Top 10 or where to start security by Maksym-Volodymyr Lyba
 3. Digital transformation impact on Security by Igor Beliaiev
+
 [Event details](https://www.t.me/owaspua/) 
 
 
@@ -43,6 +44,7 @@ tags: past2021-tag
 4. Hardware Security by Stanislav Breslavskii
 
 2nd session and retrospective after NoNameCon 2021 edition
+
 [Event details](https://discord.gg/cwtpjyf)
 
 ## #4 OWASP Ukraine 2021

@@ -1,0 +1,32 @@
+community:
+  - name: chapter-lviv
+    platform: slack
+    url: https://owasp.slack.com/archives/C8TTLN1U0
+leaders:
+  - name: Igor Beliaiev
+    email: igor.beliaiev@owasp.org
+  - name: Bohdan Serednytski
+    email: bohdan.serednytskyi@owasp.org
+  - name: Stanislav Breslavskyi
+    email: stanislav.breslavski@owasp.org
+location:
+  country: Ukraine
+  country_code: UA
+  region: Ukraine
+  city: Lviv
+  latitude: 49.841952
+  longitude: 24.0315921
+meetup_group: owasp-lviv-meetup-group
+name: OWASP Lviv
+repositories:
+  - name: www-chapter-lviv
+    url: https://github.com/OWASP/www-chapter-lviv
+    description: OWASP Foundation Web Repository
+tags:
+  - supporters-tag
+  - tab_cfp
+  - past2021-tag
+  - past2020-tag
+  - past2019-tag
+  - past2018-tag
+website: https://owasp.org/www-chapter-lviv
